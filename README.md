@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Eric!
 
-<!--
-**ericluis12122/ericluis12122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **programming languages, data structures and algorithm, software development** and always eager to learn and collaborate on innovative projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages**: JavaScript, Python, Java, C#
+- **Frameworks**: React, Django
+- **Tools**: Git, Docker
+- **Other**: HTML, CSS
+
+---
+
+## 🚀 Projects
+Here are some of my recent or favorite projects:
+
+- **[exercism]([link-to-repo](https://github.com/ericluis12122/exercism))**: *Solving programming challenges is a fun way to learn the depths of languages.*
+
+Feel free to explore my repositories!
+
+---
+
+## 🎯 Current Goals
+- 🌱 Learning: DSA
+- 🌟 Collaborating: I'm open to contributing to exciting open-source projects. Reach out if you have an idea or need help!
+
+---
+
+## 📫 Get in Touch
+- **Email**: erichernandez873@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/eric-luis-hernandez-perez-b4911b328/
+- **Portfolio**: -
+
+---
+
+## ✨ Fun Facts
+- 🎨 Hobbies: programming, puzzle solving, gaming
+- 🌍 Languages: spanish, english
+- 🌟 Favorite Tech Quote: *"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke*
+
+---
+
+Thanks for stopping by! Let's build something amazing together! 🚀
