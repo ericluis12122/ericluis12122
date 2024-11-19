@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about **programming languages, data
 - **Languages**: JavaScript, Python, Java, C#
 - **Frameworks**: React, Nodejs, Django
 - **Tools**: Git, Docker
-- **Other**: HTML, CSS
+- **Other**: HTML, CSS, Bash
 
 ---
 
