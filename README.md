@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm passionate about **programming languages, data
 Here are some of my recent or favorite projects:
 
 - **[exercism](https://github.com/ericluis12122/exercism)**: *Solving programming challenges is a fun way to learn the depths of languages.*
+- **[mini_games_top_score](https://ericluis12122.github.io/frontend_mini_games_top_score/index.html)**: *Develop mental agility and memory.*
 
 Feel free to explore my repositories!
 
