@@ -31,6 +31,7 @@ Feel free to explore my repositories!
 ## 📫 Get in Touch
 - **Email**: erichernandez873@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/eric-luis-hernandez-perez-b4911b328/
+- **Portfolio**: [Portfolio](https://ericluis12122.github.io/3d_portfolio/)
 
 ---
 
