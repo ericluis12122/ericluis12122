@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm passionate about **programming languages, data
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages**: JavaScript, Python, Java, C#
-- **Frameworks**: React, Nodejs, Django
+- **Languages**: JavaScript, Python, Java, C#, Bash
+- **Frameworks**: React, Next, Node, Django
 - **Tools**: Git, Docker
-- **Other**: HTML, CSS, Bash
+- **Other**: Tailwind, Bootstrap
 
 ---
 
